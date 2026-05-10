@@ -15,7 +15,6 @@
 
 [![Followers](https://img.shields.io/github/followers/pant0m?style=for-the-badge&logo=github&color=000&logoColor=00ff41&labelColor=000)](https://github.com/pant0m)
 [![Stars](https://img.shields.io/github/stars/pant0m?style=for-the-badge&logo=github&color=000&logoColor=00ff41&labelColor=000)](https://github.com/pant0m)
-[![Yuque](https://img.shields.io/badge/yuque-pant0m-00ff41?style=for-the-badge&logo=alibabacloud&logoColor=00ff41&labelColor=000)](https://www.yuque.com/pant0m)
 [![Location](https://img.shields.io/badge/location-Beijing,_CN-00ff41?style=for-the-badge&logo=googlemaps&logoColor=00ff41&labelColor=000)](#)
 
 </div>
@@ -126,8 +125,7 @@
 
 ```
  1  github.com/pant0m              [██████████████████] 100%
- 2  yuque.com/pant0m               [██████████████████] 100%
- 3  email                          [██████████████████] private
+ 2  email                          [██████████████████] private
 ```
 
 ---
